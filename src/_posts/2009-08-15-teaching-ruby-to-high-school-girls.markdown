@@ -16,7 +16,7 @@ Until this year I was just a TA for various programming classes, which basically
 
 I got the affirmative response in less than 10 minutes. Go SWE!
 
-It was half-day workshop, which means I had three hours with the girls. I quickly realized that wasn't going to be enough time for even a cursory overview of Rails. But I knew something visual would keep their interest better than cursor/command-line programs (particularly as this workshop was after lunch), plus I knew [Sarah Allen](http://ultrasaurus.com) had taught [Shoes](http://shoooes.net) with 4th and 5th graders. So I decided to build on her ideas.
+It was half-day workshop, which means I had three hours with the girls. I quickly realized that wasn't going to be enough time for even a cursory overview of Rails. But I knew something visual would keep their interest better than cursor/command-line programs (particularly as this workshop was after lunch), plus I knew [Sarah Allen](http://ultrasaurus.com) had taught [Shoes](http://shoesrb.com) with 4th and 5th graders. So I decided to build on her ideas.
 
 **Introduction**
 
